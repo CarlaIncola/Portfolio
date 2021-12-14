@@ -490,6 +490,11 @@ top: 200px;
   background: linear-gradient(to bottom right, #bfea59, #88b125);
 }
 
+.card11 {
+  background: linear-gradient(to bottom right, #FFB900, #FF7730);
+}
+
+
 .card .front strong {
   background: #fff;
   border-radius: 100%;
