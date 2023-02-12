@@ -556,7 +556,7 @@ grid-template-rows: repeat(6, 1fr);
   }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 981px) {
   #hamburgernav {
     visibility: visible;
   }
