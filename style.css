@@ -608,12 +608,12 @@ background-size: 100%;
   .name {
     font-size: 90px !important;
     text-align: center;
-    line-height: 60px;
+    line-height: 40px;
     padding-left: 0px !important;
     padding-right: 0px !important;
   }
   .name-underline {
-  text-underline-offset: 10px;
+  text-underline-offset: 20px;
 }
   .job-position {
     font-size: 45px !important;
