@@ -209,6 +209,11 @@ text-align: right;
   opacity: 0.5;
 }
 
+/* Nike Card */
+#nike-layer {
+  background-image: url("https://drive.google.com/uc?id=13j2qzXQNTs0rqc9gpASZ_sx6YSwTAPk7");
+}
+
 /* Reconquista Card */
 #reconquista-layer {
   background-image: url("https://drive.google.com/uc?id=1OlBO-SuiS1W42kSqhsxQ3q2nKWdJ_lUj");
