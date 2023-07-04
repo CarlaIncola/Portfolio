@@ -191,7 +191,7 @@ text-align: right;
 .info:hover {
   transform: scale(1.5);
   transition: all 0.3s ease-out;
-  color: black;
+  opacity: 0;
   
 }
 
