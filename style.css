@@ -21,13 +21,13 @@ button {
 }
 
 #es {
-background-image: url("https://drive.google.com/uc?id=19JamEe-E4qSJIDY52ECjZwxgse9znpU9");
+background-image: url("https://drive.google.com/thumbnail?id=19JamEe-E4qSJIDY52ECjZwxgse9znpU9&sz=w1000");
 background-size: 100%;
   background-position: center;
 }
 
 #en {
-background-image: url("https://drive.google.com/uc?id=1LhO7SfYQOZTpVlikVd-hA7meUxhQyVk1");
+background-image: url("https://drive.google.com/thumbnail?id=1LhO7SfYQOZTpVlikVd-hA7meUxhQyVk1&sz=w1000");
 background-size: 100%;
 }
 
@@ -211,49 +211,49 @@ text-align: right;
 
 /* Nike Card */
 #nike-layer {
-  background-image: url("https://drive.google.com/uc?id=13j2qzXQNTs0rqc9gpASZ_sx6YSwTAPk7");
+  background-image: url("https://drive.google.com/thumbnail?id=13j2qzXQNTs0rqc9gpASZ_sx6YSwTAPk7&sz=w1000");
 }
 
 /* Reconquista Card */
 #reconquista-layer {
-  background-image: url("https://drive.google.com/uc?id=1OlBO-SuiS1W42kSqhsxQ3q2nKWdJ_lUj");
+  background-image: url("https://drive.google.com/thumbnail?id=1OlBO-SuiS1W42kSqhsxQ3q2nKWdJ_lUj&sz=w1000");
 }
 
 /* Russa Card */
 #russa-layer {
-  background-image: url("https://drive.google.com/uc?id=1GWkQfAYhwPuQjsHUWGQ48B0bHsOc_Jjk");
+  background-image: url("https://drive.google.com/thumbnail?id=1GWkQfAYhwPuQjsHUWGQ48B0bHsOc_Jjk&sz=w1000");
 }
 
 /* Cake's Bar Card */
 #cakesbar-layer {
-  background-image: url("https://drive.google.com/uc?id=1AsoEJtJXiRH6dCSUEGh_U-8rnOBZ2LK6");
+  background-image: url("https://drive.google.com/thumbnail?id=1AsoEJtJXiRH6dCSUEGh_U-8rnOBZ2LK6&sz=w1000");
 }
 
 /* Tailored Card */
 #tailored-layer {
-  background-image: url("https://drive.google.com/uc?id=1gnG2lkgmhdekJIvBKsMq3pfvVCfO44jQ");
+  background-image: url("https://drive.google.com/thumbnail?id=1gnG2lkgmhdekJIvBKsMq3pfvVCfO44jQ&sz=w1000");
   background-position:center;
 }
 /* Valeska Card */
 #valeska-layer {
-  background-image: url("https://drive.google.com/uc?id=1AvS6a4VOCrkIfFA9u6ceqEoQha96YAum");
+  background-image: url("https://drive.google.com/thumbnail?id=1AvS6a4VOCrkIfFA9u6ceqEoQha96YAum&sz=w1000");
   background-position: center;
 }
 /* React Calculator Card */
 #calculator-layer {
-  background-image: url("https://drive.google.com/uc?id=1RFx7K_ZxRhPWOSrxS29zooWb-nsiikJJ");
+  background-image: url("https://drive.google.com/thumbnail?id=1RFx7K_ZxRhPWOSrxS29zooWb-nsiikJJ&sz=w1000");
   background-position: center;
 }
 
 /* Weather App Card */
 #weatherapp-layer {
-  background-image: url("https://drive.google.com/uc?id=1vPH1PyqR9qADKXW66enE-Lq89p0mje1o");
+  background-image: url("https://drive.google.com/thumbnail?id=1vPH1PyqR9qADKXW66enE-Lq89p0mje1o&sz=w1000");
   background-position: center;
 }
 
 /* Quote Machine Card */
 #quotemachine-layer {
-  background-image: url("https://drive.google.com/uc?id=1No9AbfSIt08fY3C9V_ECG1Y_7lGzKmFM");
+  background-image: url("https://drive.google.com/thumbnail?id=1No9AbfSIt08fY3C9V_ECG1Y_7lGzKmFM&sz=w1000");
   background-position: center;
 }
 /* About Section */
@@ -583,13 +583,13 @@ grid-template-rows: repeat(6, 1fr);
 }
 
 #es {
-background-image: url("https://drive.google.com/uc?id=19JamEe-E4qSJIDY52ECjZwxgse9znpU9");
+background-image: url("https://drive.google.com/thumbnail?id=19JamEe-E4qSJIDY52ECjZwxgse9znpU9&sz=w1000");
 background-size: 100%;
   background-position: center;
 }
 
 #en {
-background-image: url("https://drive.google.com/uc?id=1LhO7SfYQOZTpVlikVd-hA7meUxhQyVk1");
+background-image: url("https://drive.google.com/thumbnail?id=1LhO7SfYQOZTpVlikVd-hA7meUxhQyVk1&sz=w1000");
 background-size: 100%;
 }
   .homepage-grid {
